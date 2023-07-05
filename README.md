@@ -23,9 +23,9 @@
   <br><br>
   Then, run the scripts in the following order:
   <ol>
-  <li>Active Directory User Creation</li>
-  <li>Exchange Online Mailbox Provisioning</li>
-  <li>Office 365 License Assignment</li>
+  <li>Pt1-ADUserCreation.ps1</li>
+  <li>Pt2-ExchangeMailboxCreation.ps1</li>
+  <li>Pt3-OfficeLicenseAssignment.ps1</li>
 </ol>
 Each script will ask for the necessary input at runtime.
 </p>
